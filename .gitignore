@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+*.checkpoint.ipynb
+
+# System
+.DS_Store
+
+# Large images (optional)
+virtual_tryon/outputs/*.png
+
+# Optional: ignore model images if you want privacy
+# virtual_tryon/models/*.jpg
